@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279158339614",
+    "project_id": "testporject-5d8f6",
+    "storage_bucket": "testporject-5d8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279158339614:android:12ec12ae24e27f32a2d60f",
+        "android_client_info": {
+          "package_name": "com.testing.ford.nine.porject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsm-togDedr7zmWp-LakrFsYbg87-TvKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
